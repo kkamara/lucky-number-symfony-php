@@ -12,8 +12,6 @@ Lucky Number built with Symfony 6.3 - I have been working with Laravel since Lar
 
 * [Api Documentation](#api-documentation)
 
-* [Unit Tests](#unit-tests)
-
 * [Misc](#misc)
 
 * [Contributing](#contributing)
